@@ -3,7 +3,6 @@ This project is a Python-based command-line game allows you to enjoy the classic
 
 ## Table of Contents
 - [Overview](#overview)
-  * [Features](#features)
 - [SetUp](#setup)
 - [Functions](#functions)
 - [Algorithm](#algorithm)
