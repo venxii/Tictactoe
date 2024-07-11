@@ -1,4 +1,4 @@
-# Tic Tac Toe Game 
+# Tic-Tac-Toe Game 
 This project is a Python-based command-line game allows you to enjoy the classic Tic Tac Toe experience against an AI opponent.
 
 ## Table of Contents
